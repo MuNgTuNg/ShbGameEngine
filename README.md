@@ -1,3 +1,6 @@
+# ShbGameEngine
+This is a small game engine I have been working on with the intent of creating a tool that makes it easier for me to make games and graphical applications.
+
 ## To get running in linux/WSL:
 1. Clone the repository
 2. run `./configure.sh`
@@ -44,6 +47,7 @@ Everyone loves a trefoil knot
 for listing controls but I have not decided on a final layout for them as of yet. 
 <br><br>
 ## Todo Wishlist:
+- Scene management system
 - Windows build method.  
 - json support.  
 - Scripting support (lua or custom .txt config files).  
