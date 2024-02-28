@@ -10,4 +10,12 @@ All textures added to the `resources/textures` folder that are in .jpg format wi
 All fonts added to the `resources/fonts` folder that are in .ttf format will also be scraped and added to the engine.
 
 This is a work in progress. I intend to make the architecture of this code much more efficient and intuitive in the coming months. I also intend to add a section
-for listing controls but I have not decided on a final layout for them as of yet.
+for listing controls but I have not decided on a final layout for them as of yet. 
+
+Todo Wishlist:
+Windows build method.
+json support.
+Scripting support (lua or custom .txt config files).
+Game object serialisation.
+
+
